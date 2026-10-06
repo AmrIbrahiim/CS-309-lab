@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(241, 233, 239);
+    color: rgb(78, 13, 13);
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: darkblue;
+}
